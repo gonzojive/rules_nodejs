@@ -10,5 +10,6 @@ ng_ts_library(
     deps = [
         "@npm//@angular/core",
         "@npm//@angular/router",
+        "@npm//color-interpolate",
     ],
 )

@@ -1,5 +1,6 @@
 {
-    "compilerOptions": {
+  "compilerOptions": {
+        "esModuleInterop": true,
         // Allow uses of these JS APIs
         "lib": [
             "dom",
